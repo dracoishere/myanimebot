@@ -1,0 +1,45 @@
+Terms of Service
+Definitions
+You/Your - The individual accessing Predictions through the Discord bot or website.
+Company/Us - The Predictions company operated by battleless#0026.
+Service - The Predictions Discord bot accessed through Discord or the website.
+
+Acknowledgment
+These are the Terms of Service governing the use of this service and the agreement that operates between you and the company. These Terms of Service set out the rights and obligations of all users regarding the use of the service.
+Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms of Service. These Terms of Service apply to all visitors, users and others who access or use the service.
+By accessing or using the Service you agree to be bound by these Terms of Service. If you disagree with any part of these Terms of Service then you may not access the service.
+You represent that you are 13 years old or over the age of 13. The company does not permit those under 13 to use the Service as set by Discord's Terms of Service.
+Your access to and use of the service is also conditioned on your acceptance of and compliance with the Privacy Policy of the Company. Our Privacy Policy describes Our policies and procedures on the collection, use and disclosure of your personal information when You use the application or the website and tells you about your privacy rights and how the law protects you. Please read our Privacy Policy carefully before using our service.
+
+Links to Other Websites
+Our service may contain links to third-party websites or services that are not owned or controlled by the company.
+The company does not take responobility for anything that you may see or damages you may occur on the third-party websites or services.
+We strongly advise you to read the terms of service and privacy policies of any third-party websites or services that you visit.
+
+Termination
+The company may decide to terminate your access to the service with or without reason or notice.
+Upon termination, your right to use the service will cease immediately.
+
+Privacy Policy
+Definitions
+Text Channel - A Discord channel used for text-based communication.
+User - A Discord user which is operated by you or another person.
+Role - A Discord role which can be given out to user(s) of a Discord guild.
+Guild - A Discord server/guild which communication is based in.
+Message - A message sent by the Discord bot (used for pinned messages) or server user.
+
+Data Collected
+Server ID.
+Server Name.
+Text Channel ID(s) which prediction(s).
+Message IDs of prediction message(s).
+Contents of prediction message(s).
+User ID(s) of users who have predicted.
+
+All stored data is encrypted.
+
+How Collected Data is Used.
+Collected Data is used solely for the functionality of the Discord bot. Data is stored indefinitely.
+
+Deletion of Collected Data
+Send a DM to battleless#0026 with the Server ID and invite URL/link. All Collected Data will be deleted within 24 hrs of this information being sent.

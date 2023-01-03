@@ -1,0 +1,80 @@
+@import url(https://fonts.googleapis.com/css2?family=Inter&display=swap);
+
+.banner {
+    padding: 10px;
+    border-radius: 50px;
+    font-size: 15px;
+    background-color: #23272a;
+    color: #dfddee;
+    margin-bottom: 15px;
+}
+
+body{
+    background:#d8dae2;
+    padding:1em 2em;
+    font-family:Inter,sans-serif;
+    text-align:center
+}
+
+.buttons{
+    font-family: Inter,sans-serif;
+    color: #dfddee;
+    border-radius: 20px;
+    border: 0px solid #000;
+    padding: 5px 10px;
+    background: #23272a;
+    font-size: 1em;
+    cursor: pointer
+    
+}
+
+.buttons:hover {
+    background: #3e454b;
+}
+
+.premiumbutton:hover {
+    background: #3e454b;
+}
+
+h1{
+    font-weight:400;
+    letter-spacing:-1px;
+    color:#23272a
+}
+
+table{
+    background:#23272a;
+    border-radius:.6em;
+    color:#fff;
+    margin:auto;
+    width:60%
+}
+
+th{
+    color:#0e51a2;
+    border-bottom:2px solid #a7acb3;
+    text-align:left;
+    padding:.75em 1em .5em
+}
+
+td{
+    text-align:left;
+    padding:.75em 1em .25em
+}
+
+tr:last-child td{
+    padding:.75em 1em 1.25em
+}
+
+tbody:nth-child(odd){
+    color:#ffffff
+}
+
+@media screen and (max-width:500px){
+    body{
+        padding:0
+    }
+    table{
+        width:100%
+    }
+}
