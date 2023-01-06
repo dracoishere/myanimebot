@@ -1,14 +1,5 @@
 @import url(https://fonts.googleapis.com/css2?family=Inter&display=swap);
 
-.banner {
-    padding: 10px;
-    border-radius: 50px;
-    font-size: 15px;
-    background-color: #23272a;
-    color: #dfddee;
-    margin-bottom: 15px;
-}
-
 body{
     background:#d8dae2;
     padding:1em 2em;
